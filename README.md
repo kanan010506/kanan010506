@@ -46,34 +46,6 @@
 
 ---
 
-### 📌 Projects
-
-#### 🔹 ChurnScope (ML Project)
-- 📊 Built churn prediction system on **7,000+ records**  
-- 🧪 Feature engineering + class imbalance handling  
-- 📈 Achieved **~84% ROC-AUC** after model evaluation  
-
-🔗 [GitHub Repo](https://github.com/kanan010506/Churn-Prediction) | 🌐 [Live Demo](https://churn-prediction-u0xg.onrender.com)
-
----
-
-#### 🔹 Expense Tracker
-- 💡 React-based UI for tracking expenses  
-- 📱 Clean, responsive design with local storage  
-
-🔗 [GitHub Repo](https://github.com/kanan010506/expense-tracker) | 🌐 [Live Demo](https://kanan010506.github.io/expense-tracker/)
-
----
-
-### 🌍 Open Source
-
-#### 🔹 Calc Diverse
-- ✨ Added **two new features**  
-- 🔀 PRs merged (**#1999, #2000**)  
-- 🤝 Worked with issues, PRs, and reviews  
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
