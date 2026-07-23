@@ -56,8 +56,14 @@
 ---
 
 ### 📊 Coding & Achievements
-- 🧩 **200+ LeetCode problems solved**  
+- 🧩 **350+ LeetCode problems solved**  
 - 🏆 TIET Merit Scholarship  
+
+---
+
+### 🌱 Open Source Contributions
+- 🔀 **freeCodeCamp** — curriculum fixes (RegExp lessons, i18n sync, formatting)
+- 🧮 **CalcDiverse** — Number of Squares Calculator, Shortest Distance Calculator
 
 ---
 
@@ -67,6 +73,3 @@
 - 📧 kanan010506@gmail.com  
 
 ---
-
-### ⚡ Fun Fact
-I like turning complex problems into simple, logical solutions 🧠✨
